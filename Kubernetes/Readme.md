@@ -1,5 +1,5 @@
 
-# Building a Multi-Service Application with In-Place Upgrades on Kubernetes
+# Building a Multi-Service Application with In-Place Upgrades on Kubernetes. Alejandro del Prado
 
 
 ## Prerequisites
